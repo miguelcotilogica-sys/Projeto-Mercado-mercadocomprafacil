@@ -1,2 +1,3 @@
-# Projeto-Mercado-mercadocomprafacil
-Projeto Java Mercadinho
+# mecadinhocomprafacil
+
+A new Flutter project.
